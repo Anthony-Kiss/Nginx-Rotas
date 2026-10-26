@@ -4,7 +4,7 @@
 - **Disciplina:** Gerência e Configuração de Serviços para Internet (GCSI)
 - **Aluno:** Anthony Ryan Benigno Kiss
 - **Ambiente:** Docker (Ubuntu 26.04 LTS com Nginx)
-- **Container Utilizado:** `ubuntu2604_no4` (ID: `5bd7c0434d08`)
+- **Container Utilizado:** `ubuntu2604_no4`
 
 ---
 
